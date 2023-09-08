@@ -1,0 +1,12 @@
+html,
+body {
+  height: 100%;
+}
+
+.form {
+    max-width: 800px;
+    margin: auto;
+    background-color: aliceblue;
+    border-radius: 10px;
+    
+}
